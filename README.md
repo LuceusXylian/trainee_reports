@@ -1,7 +1,7 @@
 # trainee_reports
 
-In germany a trainee must write weekly a report. 
-This reports are useless, but must still be written. No one is checking them carefully, so we can abuse this with making a generator.
+In Germany a trainee must write weekly a report. These reports are useless, but must still be written. 
+No one is checking them carefully, so we can abuse this with making a generator.
 
 ## How to get started
 1. sudo apt install apache2 php mariadb
