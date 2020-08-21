@@ -5,7 +5,7 @@ ini_set('display_errors', 'On');
 define("PROGRAMM_NAME", 'Trainee Reports');
 define("TESTMODE", true);
 define("GENERATOR_PATH", dirname(__FILE__));
-define("FILE_AUTHOR", 'Scheifele');
+define("FILE_AUTHOR", 'FILE_AUTHOR');
 define("START_DATE", '2020-08-10');
 define("REPORT_NUMBER_STARTWITH", 1);
 
