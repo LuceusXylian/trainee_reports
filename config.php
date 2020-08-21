@@ -3,7 +3,7 @@ ini_set('error_reporting', E_ALL);
 ini_set('display_errors', 'On');
 
 define("PROGRAMM_NAME", 'Trainee Reports');
-define("TESTMODE", true);
+define("TESTMODE", false);
 define("GENERATOR_PATH", dirname(__FILE__));
 define("FILE_AUTHOR", 'FILE_AUTHOR');
 define("START_DATE", '2020-08-10');
