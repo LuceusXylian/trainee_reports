@@ -9,12 +9,12 @@ This reports are useless, but must still be written. No one is checking them car
 3. git clone https://github.com/XylianZeref/trainee_reports.git
 4. cd trainee_reports
 5. sudo mysql -h localhost -u user < create_Database.sql
-6. add secrets.php
-  $server = "localhost";
-  $user = "user";
-  $password = "pass";
-  $database = "trainee_reports";
-
+6. add secrets.php  
+  $server = "localhost";  
+  $user = "user";  
+  $password = "pass";  
+  $database = "trainee_reports";  
+  
 7. configure config.php
 8. go to /trainee_reports/editor.php
 9. go to /trainee_reports/generator.php
